@@ -1,0 +1,8 @@
+D:\Kairos\Terbilang\Helper\bin\Debug\Helper.dll
+D:\Kairos\Terbilang\Helper\bin\Debug\Helper.pdb
+D:\Kairos\Terbilang\Helper\obj\Debug\Helper.dll
+D:\Kairos\Terbilang\Helper\obj\Debug\Helper.pdb
+D:\Kairos\Terbilang\Helper\obj\Debug\Helper.csprojResolveAssemblyReference.cache
+D:\Kairos\Terbilang\Helper\bin\Debug\Newtonsoft.Json.dll
+D:\Kairos\Terbilang\Helper\bin\Debug\Newtonsoft.Json.pdb
+D:\Kairos\Terbilang\Helper\bin\Debug\Newtonsoft.Json.xml
